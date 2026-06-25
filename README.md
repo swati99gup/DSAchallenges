@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
