@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -70,4 +72,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/swati99gup/DSAchallenges/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Counting
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
