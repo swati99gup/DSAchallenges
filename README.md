@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swati99gup/DSAchallenges/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swati99gup/DSAchallenges/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swati99gup/DSAchallenges/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swati99gup/DSAchallenges/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/swati99gup/DSAchallenges/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
