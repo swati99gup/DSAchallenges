@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/swati99gup/DSAchallenges/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/swati99gup/DSAchallenges/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
