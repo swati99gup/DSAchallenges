@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/swati99gup/DSAchallenges/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/swati99gup/DSAchallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/swati99gup/DSAchallenges/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swati99gup/DSAchallenges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/swati99gup/DSAchallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swati99gup/DSAchallenges/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/swati99gup/DSAchallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
