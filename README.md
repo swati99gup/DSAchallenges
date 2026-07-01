@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/swati99gup/DSAchallenges/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/swati99gup/DSAchallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/swati99gup/DSAchallenges/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/1021-remove-outermost-parentheses) |
