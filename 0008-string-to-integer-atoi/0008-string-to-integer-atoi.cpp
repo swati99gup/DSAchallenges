@@ -24,11 +24,7 @@ public:
     }
             res=res*10+(digit);
         }
-        if (sign == 1 && res > INT_MAX)
-    return INT_MAX;
-
-if (sign == -1 && -res < INT_MIN)
-    return INT_MIN;
+        
         return res*sign;
     }
 };
