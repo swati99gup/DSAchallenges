@@ -42,12 +42,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/swati99gup/DSAchallenges/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/swati99gup/DSAchallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/swati99gup/DSAchallenges/tree/master/0443-string-compression) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/swati99gup/DSAchallenges/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/swati99gup/DSAchallenges/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/swati99gup/DSAchallenges/tree/master/0014-longest-common-prefix) |
