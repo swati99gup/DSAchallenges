@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [1288-remove-covered-intervals](https://github.com/swati99gup/DSAchallenges/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/swati99gup/DSAchallenges/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swati99gup/DSAchallenges/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swati99gup/DSAchallenges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
+| [1288-remove-covered-intervals](https://github.com/swati99gup/DSAchallenges/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/swati99gup/DSAchallenges/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## String
 |  |
