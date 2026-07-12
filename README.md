@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/swati99gup/DSAchallenges/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/swati99gup/DSAchallenges/tree/master/1903-largest-odd-number-in-string) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swati99gup/DSAchallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -240,5 +242,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
