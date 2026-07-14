@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/swati99gup/DSAchallenges/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swati99gup/DSAchallenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/swati99gup/DSAchallenges/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/swati99gup/DSAchallenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/swati99gup/DSAchallenges/tree/master/0013-roman-to-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/swati99gup/DSAchallenges/tree/master/1903-largest-odd-number-in-string) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/swati99gup/DSAchallenges/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [1301-number-of-paths-with-max-score](https://github.com/swati99gup/DSAchallenges/tree/master/1301-number-of-paths-with-max-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/swati99gup/DSAchallenges/tree/master/3620-network-recovery-pathways) |
@@ -254,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0021-merge-two-sorted-lists) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
