@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swati99gup/DSAchallenges/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/swati99gup/DSAchallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/swati99gup/DSAchallenges/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/swati99gup/DSAchallenges/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0876-middle-of-the-linked-list) |
 ## Union-Find
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/swati99gup/DSAchallenges/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0234-palindrome-linked-list) |
 ## Number Theory
 |  |
 | ------- |
