@@ -5,13 +5,13 @@ public:
     int l=0;
     int r=0;
     int cnt=0;
-    unordered_map<char,int>mp;
+vector<int>freq(3,0);
     while(r<n){
-    mp[s[r]]++;
-    while(mp['a']>0&&mp['b']>0&&mp['c']>0)
+    freq[s[r]-'a']++;
+    while(freq[0]!=0&&freq[1]!=0&&freq[2]!=0)
     {
         cnt+=n-r;
-        mp[s[l]]--;
+        freq[s[l]-'a']--;
         l++;
     }
     r++;
