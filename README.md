@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swati99gup/DSAchallenges/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
 | [1301-number-of-paths-with-max-score](https://github.com/swati99gup/DSAchallenges/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/swati99gup/DSAchallenges/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/swati99gup/DSAchallenges/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/swati99gup/DSAchallenges/tree/master/0141-linked-list-cycle) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/swati99gup/DSAchallenges/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0234-palindrome-linked-list) |
@@ -331,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
