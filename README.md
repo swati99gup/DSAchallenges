@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0930-binary-subarrays-with-sum](https://github.com/swati99gup/DSAchallenges/tree/master/0930-binary-subarrays-with-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/swati99gup/DSAchallenges/tree/master/0013-roman-to-integer) |
+| [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swati99gup/DSAchallenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/swati99gup/DSAchallenges/tree/master/1903-largest-odd-number-in-string) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
+| [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/swati99gup/DSAchallenges/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/swati99gup/DSAchallenges/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/swati99gup/DSAchallenges/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
 ## Number Theory
 |  |
 | ------- |
@@ -363,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/swati99gup/DSAchallenges/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
