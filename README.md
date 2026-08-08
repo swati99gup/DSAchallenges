@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/swati99gup/DSAchallenges/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swati99gup/DSAchallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swati99gup/DSAchallenges/tree/master/0662-maximum-width-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/swati99gup/DSAchallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Depth-First Search
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/swati99gup/DSAchallenges/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swati99gup/DSAchallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/swati99gup/DSAchallenges/tree/master/0662-maximum-width-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/swati99gup/DSAchallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swati99gup/DSAchallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0621-task-scheduler](https://github.com/swati99gup/DSAchallenges/tree/master/0621-task-scheduler) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/swati99gup/DSAchallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/swati99gup/DSAchallenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/swati99gup/DSAchallenges/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/swati99gup/DSAchallenges/tree/master/3620-network-recovery-pathways) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/swati99gup/DSAchallenges/tree/master/0155-min-stack) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/swati99gup/DSAchallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -393,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0023-merge-k-sorted-lists) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/swati99gup/DSAchallenges/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/swati99gup/DSAchallenges/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
