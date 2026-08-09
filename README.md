@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/swati99gup/DSAchallenges/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/swati99gup/DSAchallenges/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/swati99gup/DSAchallenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/swati99gup/DSAchallenges/tree/master/1248-count-number-of-nice-subarrays) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/swati99gup/DSAchallenges/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/swati99gup/DSAchallenges/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -416,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/swati99gup/DSAchallenges/tree/master/0347-top-k-frequent-elements) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/swati99gup/DSAchallenges/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
