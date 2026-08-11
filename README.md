@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/swati99gup/DSAchallenges/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/swati99gup/DSAchallenges/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/swati99gup/DSAchallenges/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [1020-number-of-enclaves](https://github.com/swati99gup/DSAchallenges/tree/master/1020-number-of-enclaves) |
 | [1260-shift-2d-grid](https://github.com/swati99gup/DSAchallenges/tree/master/1260-shift-2d-grid) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/swati99gup/DSAchallenges/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/swati99gup/DSAchallenges/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/swati99gup/DSAchallenges/tree/master/0300-longest-increasing-subsequence) |
