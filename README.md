@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/swati99gup/DSAchallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/swati99gup/DSAchallenges/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/swati99gup/DSAchallenges/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/swati99gup/DSAchallenges/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swati99gup/DSAchallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swati99gup/DSAchallenges/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/swati99gup/DSAchallenges/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/swati99gup/DSAchallenges/tree/master/0796-rotate-string) |
 ## Graph Theory
 |  |
 | ------- |
