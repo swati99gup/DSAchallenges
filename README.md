@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/swati99gup/DSAchallenges/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/swati99gup/DSAchallenges/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/swati99gup/DSAchallenges/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/swati99gup/DSAchallenges/tree/master/0115-distinct-subsequences) |
 | [0213-house-robber-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/swati99gup/DSAchallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/swati99gup/DSAchallenges/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/swati99gup/DSAchallenges/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/swati99gup/DSAchallenges/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/swati99gup/DSAchallenges/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/swati99gup/DSAchallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/swati99gup/DSAchallenges/tree/master/0443-string-compression) |
