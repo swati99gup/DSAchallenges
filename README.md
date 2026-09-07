@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/swati99gup/DSAchallenges/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/swati99gup/DSAchallenges/tree/master/0486-predict-the-winner) |
+| [0940-distinct-subsequences-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0940-distinct-subsequences-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/swati99gup/DSAchallenges/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/swati99gup/DSAchallenges/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/swati99gup/DSAchallenges/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/swati99gup/DSAchallenges/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/swati99gup/DSAchallenges/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/swati99gup/DSAchallenges/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/swati99gup/DSAchallenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/swati99gup/DSAchallenges/tree/master/1832-check-if-the-sentence-is-pangram) |
