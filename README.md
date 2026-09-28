@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/swati99gup/DSAchallenges/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/swati99gup/DSAchallenges/tree/master/0169-majority-element) |
 | [0213-house-robber-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swati99gup/DSAchallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/swati99gup/DSAchallenges/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/swati99gup/DSAchallenges/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/swati99gup/DSAchallenges/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swati99gup/DSAchallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0240-search-a-2d-matrix-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/swati99gup/DSAchallenges/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/swati99gup/DSAchallenges/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/swati99gup/DSAchallenges/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/swati99gup/DSAchallenges/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/swati99gup/DSAchallenges/tree/master/0621-task-scheduler) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/swati99gup/DSAchallenges/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/swati99gup/DSAchallenges/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/swati99gup/DSAchallenges/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/swati99gup/DSAchallenges/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/swati99gup/DSAchallenges/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/swati99gup/DSAchallenges/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/0496-next-greater-element-i) |
@@ -298,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/swati99gup/DSAchallenges/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/swati99gup/DSAchallenges/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/swati99gup/DSAchallenges/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/swati99gup/DSAchallenges/tree/master/0992-subarrays-with-k-different-integers) |
@@ -475,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/swati99gup/DSAchallenges/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/swati99gup/DSAchallenges/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
