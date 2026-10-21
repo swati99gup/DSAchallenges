@@ -490,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0550-game-play-analysis-iv](https://github.com/swati99gup/DSAchallenges/tree/master/0550-game-play-analysis-iv) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/swati99gup/DSAchallenges/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/swati99gup/DSAchallenges/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/swati99gup/DSAchallenges/tree/master/1934-confirmation-rate) |
