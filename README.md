@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/swati99gup/DSAchallenges/tree/master/3620-network-recovery-pathways) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swati99gup/DSAchallenges/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/swati99gup/DSAchallenges/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/swati99gup/DSAchallenges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/swati99gup/DSAchallenges/tree/master/3875-construct-uniform-parity-array-i) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/swati99gup/DSAchallenges/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/swati99gup/DSAchallenges/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Sliding Window
 |  |
 | ------- |
